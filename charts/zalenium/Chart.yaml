@@ -1,13 +1,13 @@
-name: zalenium
+name: zalenium-new
 version: 3.141.59
 apiVersion: v2
 type: application
 description: Chart for selenium grid
 keywords:
   - qa
-home: https://github.com/jfrog-solutiontest/zalenium
+home: https://github.com/jfrog-solutiontest/zalenium-new
 sources:
-  - https://github.com/jfrog-solutiontest/zalenium
+  - https://github.com/jfrog-solutiontest/zalenium-new
 maintainers:
   - name: hemanthjfrog
     email: hemanthb@jfrog.com
